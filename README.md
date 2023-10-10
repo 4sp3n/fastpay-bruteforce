@@ -1,2 +1,3 @@
-# fastpay-bruteforce
-Old code to bruteforce fastpay account
+# Fastpay bruteforce
+
+NNote : Old code to bruteforce fastpay account
